@@ -1,5 +1,7 @@
 # Capstone_major-RFM_Analysis-KMeans_clustering-Online_retail_sales_dataset
 
+Kaggle Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
+
 # Problem Statement
 
 *An online retail store is trying to understand the various customer purchase patterns for their firm, you are required to give enough evidence-based insights to provide the same.*

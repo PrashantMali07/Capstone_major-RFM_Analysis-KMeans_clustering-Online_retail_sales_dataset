@@ -17,7 +17,7 @@
 * CustomerID      - Customer ID
 * Country         - Region of Purchase
 
-** # Tasks to be performed: **
+# **Tasks to be performed:**
 
 1. Using the above data, find useful insights about the customer purchasing history that can be an added advantage for the online retailer.
 
